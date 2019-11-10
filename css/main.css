@@ -29,6 +29,11 @@ header a {
   padding-left: 15px;
 }
 
+#google-apps {
+  margin-top: px;
+  width: 18px;
+}
+
 button {
   line-height: 28px;
   cursor: pointer;
