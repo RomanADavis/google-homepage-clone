@@ -1,10 +1,6 @@
-* {
-  font-size: 18px;
-}
 body {
   margin-top: 200px;
-  background-color: white;
-  color: #222;
+  background-color: #fff;
   font-family: arial, sans-serif;
   font-size: 13px;
 }
@@ -17,7 +13,8 @@ header {
 }
 
 header a {
-  color: #222;
+  color: #000;
+  opacity: 0.75;
   padding-left: 15px;
 }
 
@@ -28,7 +25,7 @@ button {
 
 .right button {
   margin-left: 20px;
-  border: 1px solid #4285f4;
+      border: 1px solid -;
   font-weight: bold;
   color: #fff;
   padding: 0 12px;
@@ -42,10 +39,10 @@ button {
 
 footer {
   width: 100%;
-  background-color: #eee;
+  background-color: #f2f2f2;
   position: fixed;
   bottom: 0;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #e4e4e4;
   padding-bottom: 12px;
   left: 0;
   right: 0;
@@ -53,7 +50,7 @@ footer {
 }
 
 footer a {
-  color: #667;
+  color: #5f6368;
   padding-left: 25px;
 }
 
@@ -67,7 +64,6 @@ a:hover {
 
 .left {
   float: left;
-  padding-left: 10px;
 }
 
 .right {
@@ -92,18 +88,18 @@ a:hover {
 
 .button-div button {
   margin: 0 auto;
-  border: 1px solid #fff;
-  background-color: #eee;
+  border: 1px solid #f2f2f2;
+  background-color: #f5f5f5;
   border-radius: 4px;
   padding: 3px 16px;
-  color: #667;
+  color: #5F6368;
   font-size: 14px;
   margin: 11px 4px;
 }
 
 .button-div button:hover {
-  box-shadow: 0 0 2px #222;
-  color: #222;
+  box-shadow: 0 0 2px black;
+  color: #222222;
 }
 
 #search {
@@ -126,7 +122,7 @@ a:hover {
   outline: none;
 }
 
-.google-logo{
+.google-logo {
   display: block;
   margin: 0 auto;
   padding-bottom: 10px;
