@@ -132,3 +132,7 @@ a:hover {
   border: 1px  solid lightgray;
   color: rgba(0,0,0,.54);
 }
+
+#country-footer p {
+  padding-left: 25px;
+}
