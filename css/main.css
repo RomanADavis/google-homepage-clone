@@ -12,26 +12,10 @@ header {
   padding-top: 20px;
 }
 
-header ul {
-  margin-top: 15px;
-  float: right;
-  font-size: 13px;
-}
-
-header li {
-  padding-right: 10px;
-  display: inline;
-}
-
 header a {
   color: #000;
   opacity: 0.75;
   padding-left: 15px;
-}
-
-#google-apps {
-  margin-top: px;
-  width: 18px;
 }
 
 button {
@@ -41,7 +25,7 @@ button {
 
 .right button {
   margin-left: 20px;
-      border: 1px solid -;
+  border: 1px solid #4285f4;
   font-weight: bold;
   color: #fff;
   padding: 0 12px;
@@ -119,8 +103,8 @@ a:hover {
 }
 
 #search {
-  width: 525px;
-  height: 40px;
+  width: 482px;
+  height: 44px;
   border-radius: 24px;
   border: none;
   margin: 20px 0;
