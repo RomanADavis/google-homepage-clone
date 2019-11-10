@@ -67,6 +67,7 @@ a:hover {
 }
 
 .right {
+  display: inline;
   float: right;
   padding-right: 25px;
 }
