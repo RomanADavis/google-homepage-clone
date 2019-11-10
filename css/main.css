@@ -12,6 +12,17 @@ header {
   padding-top: 20px;
 }
 
+header ul {
+  margin-top: 15px;
+  float: right;
+  font-size: 13px;
+}
+
+header li {
+  padding-right: 10px;
+  display: inline;
+}
+
 header a {
   color: #000;
   opacity: 0.75;
@@ -67,7 +78,6 @@ a:hover {
 }
 
 .right {
-  display: inline;
   float: right;
   padding-right: 25px;
 }
