@@ -127,3 +127,7 @@ a:hover {
   margin: 0 auto;
   padding-bottom: 10px;
 }
+
+#country-footer {
+  display: block;
+}
