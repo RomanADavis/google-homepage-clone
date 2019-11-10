@@ -53,15 +53,7 @@ footer a {
   color: #5f6368;
   padding-left: 25px;
 }
-.footer li {
-  display: inline;
-  color: dimgray;
-  padding-right: 20px;
-}
 
-.footer ul {
-  padding-left: 30px;
-}
 a {
   text-decoration: none;
 }
