@@ -2,5 +2,29 @@
   font-size: 18px;
 }
 body {
+  margin-top: 200px;
+  background-color: white;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+}
 
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.right button {
+  margin-left: 20px;
+  border: 1px solid #4285f4;
+  font-weight: bold;
+  color: #fff;
+  padding: 0 12px;
+  background-color: #4285f4;
+  border-radius: 3px;
+}
+
+.right button:hover {
+  
 }
