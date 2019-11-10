@@ -46,7 +46,7 @@ footer {
   padding-bottom: 12px;
   left: 0;
   right: 0;
-  padding-top: 12px;
+  padding-top: 0;
 }
 
 footer a {
@@ -132,5 +132,4 @@ a:hover {
   border: 1px  solid lightgray;
   padding-left: 30px;
   color: rgba(0,0,0,.54);
-  margin-top: 0;
 }
