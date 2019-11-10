@@ -132,4 +132,5 @@ a:hover {
   border: 1px  solid lightgray;
   padding-left: 30px;
   color: rgba(0,0,0,.54);
+  margin-top: 0;
 }
