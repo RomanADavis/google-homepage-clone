@@ -130,6 +130,9 @@ a:hover {
 
 #country-footer {
   border: 1px  solid lightgray;
-  padding-left: 30px;
   color: rgba(0,0,0,.54);
+}
+
+#country-footer p {
+  padding-left: 25px;
 }
