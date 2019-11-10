@@ -129,13 +129,7 @@ a:hover {
 }
 
 #country-footer {
-  width: 100%;
-  background-color: #f2f2f2;
-  position: fixed;
-  bottom: 12px;
-  border-top: 1px solid #e4e4e4;
-  padding-bottom: 12px;
-  left: 0;
-  right: 0;
-  padding-top: 12px;
+  border: 1px  solid lightgray;
+  padding-left: 30px;
+  color: rgba(0,0,0,.54);
 }
